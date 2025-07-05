@@ -1,0 +1,25 @@
+#game-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+#image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#location-image {
+  max-width: 100%;
+  height: auto;
+}
+#map {
+  border: 1px solid #ccc;
+}
+#guess-button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+#result {
+  text-align: center;
+  font-size: 18px;
+}

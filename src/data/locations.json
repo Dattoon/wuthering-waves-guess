@@ -1,0 +1,20 @@
+{
+  "jinzhou": [
+    {
+      "id": "jnz_001",
+      "name": "Resonance Nexus",
+      "correctCoordinates": { "lat": 45.0, "lng": -122.0 },
+      "image": "images/jinzhou/resonance_nexus.jpg",
+      "mapRegion": "jinzhou",
+      "tolerance": 50
+    },
+    {
+      "id": "jnz_002",
+      "name": "City Hall",
+      "correctCoordinates": { "lat": 45.1, "lng": -122.1 },
+      "image": "images/jinzhou/city_hall.jpg",
+      "mapRegion": "jinzhou",
+      "tolerance": 50
+    }
+  ]
+}
